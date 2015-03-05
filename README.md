@@ -4,9 +4,12 @@ journals_calendar
 A calendar to help people systematically read through a large number of archivist and academic librarian journals.
 
 #Why a calendar for tracking journals?
-The short answer is because I needed a decent way to make sure I was at least regularly skimming much of the LIS literature pertaining to my professional identity as an archivist working in an academic research library.
+The short answer is because I (Eira) needed a decent way to make sure I was at least regularly skimming much of the LIS literature pertaining to my professional identity as an archivist working in an academic research library.
 
 The long answer is because by my estimates, there are at least 14 archival journals published in Canada/UK/United States I want to follow on a regular basis. I also want to be somewhat conversant with more of the literature being published in general academic library-land. That adds on another several dozen journals.
+
+#Is there an easier to use version of this calendar?
+There is a Google calendar here: http://goo.gl/iDa3kO This is what I (Eira) use on a regular basis to guide my reading
 
 #Why is there nothing in the third week?
 The third week of every month is deliberately kept open as a Grab Bag week, or to finally read through that obnoxious Instapaper/saved Tweets/open tabs count. 
