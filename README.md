@@ -15,8 +15,7 @@ The third week of every month is deliberately kept open as a Grab Bag week, or t
 Check the calendar spreadsheet and/or the publishing schedule spreadsheet.
 
 #What is the difference between the two?
-Check the calendar spreadsheet and/or the publishing schedule spreadsheet.
-
+The calendar spreadsheet tells you when to read something, the publishing schedule gives you a list of all the journals on the calendar, their publication schedule, and how often they actually appear on the calendar (not all journals are scheduled as frequently as they are published).
 #You should add $_journal to your calendar.
 Cool, send it to me if it seems like there's room on the spreadsheet and I'll consider adding it.
 
@@ -27,3 +26,6 @@ If you love the current format and would be heartbroken if I removed a title or 
 
 #Can I share/remix/adapt this?
 Yes, with certain strings attached. Please do not commercialize this in any way (mostly because, REALLY?!). You are welcome to remix this and put up a similar calendar or documentation, but I'd appreciate attribution. 
+
+#What journals have you added to or removed from the calendar?
+Check out the changes_journal.md file, or feel free to look at the file history
