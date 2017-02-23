@@ -1,5 +1,14 @@
 changes to journals_calendar
 =================
+#Changes as of February 23, 2017
+Removed the following titles: 
+* Journal of Library Metadata
+* Library Hi Tech
+* The New Review of Academic Librarianship
+
+Added the following titles: 
+* Information Management
+* Records Management Journal
 
 #Changes as of January 19, 2016
 Removed the following titles: 
