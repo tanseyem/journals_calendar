@@ -1,6 +1,6 @@
 changes to journals_calendar
 =================
-#Changes as of February 23, 2017
+#Changes as of February 23, 2017:
 Removed the following titles: 
 * Journal of Library Metadata
 * Library Hi Tech
