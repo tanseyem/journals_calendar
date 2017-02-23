@@ -26,5 +26,5 @@ Changed the day of the following titles:
 * Journal of Western Archives, now the first Monday of July
 * The Reading Room: A Journal of Special Collections, now the first Monday of August
 
-#Changes as of March 5, 2015
+#Changes as of March 5, 2015:
 Added Journal of Digital Humanities and Journal of Radical Librarianship
