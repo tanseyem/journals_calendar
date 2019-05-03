@@ -1,6 +1,6 @@
 changes to journals_calendar
 =================
-#Changes as of May 3, 2019:
+# Changes as of May 3, 2019:
 Removed the following titles:
 * D-Lib
 * Evidence Based Library and Information Practice
