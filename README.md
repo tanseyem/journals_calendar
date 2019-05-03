@@ -19,7 +19,8 @@ Check the calendar spreadsheet and/or the publishing schedule spreadsheet.
 
 # What is the difference between the two spreadsheets?
 The calendar spreadsheet tells you when to read something, the publishing schedule gives you a list of all the journals on the calendar, their publication schedule, and how often they actually appear on the calendar (not all journals are scheduled on the calendar as frequently as they are published).
-#You should add $_journal to your calendar.
+
+# You should add $_journal to your calendar.
 Cool, send it to me if it seems like there's room on the spreadsheet and I'll consider adding it.
 
 # What you should know before using this calendar?
