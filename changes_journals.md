@@ -1,10 +1,30 @@
 changes to journals_calendar
 =================
+#Changes as of May 3, 2019:
+Removed the following titles:
+* D-Lib
+* Evidence Based Library and Information Practice
+* Information Technology and Libraries
+* Library Management
+
+Changed scheduling frequency:
+* Archival Practice
+* First Monday
+* Progressive Librarian
+
+Added the following titles:
+* Global Knowledge, Memory, and Communication
+* Journal of Critical Library and Information Studies
+* KULA: Knowledge Creation, Dissemination, and Preservation Studies
+
+Moved reading dates but did not change frequency:
+* Journal of Contemporary Archival Studies
+* Library Quarterly
+
 # Changes as of January 8, 2018:
 Shortened the reading period for the following titles from 2 days to 1 day:
 * Archivaria
 * Journal of Archival Organization
-
 
 # Changes as of February 23, 2017:
 Removed the following titles: 
