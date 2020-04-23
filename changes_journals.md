@@ -1,5 +1,17 @@
 changes to journals_calendar
 =================
+# Changes as of April 23, 2020:
+Removed the following titles:
+* Practical Technology for Archives
+* The Reading Room: A Journal of Special Collections
+
+Changed scheduling frequency:
+* Journal of the Society of North Carolina Archivists
+* Journal of Librarianship and Scholarly Communication
+
+Added the following titles:
+* Journal of New Librarianship 
+
 # Changes as of May 3, 2019:
 Removed the following titles:
 * D-Lib
